@@ -1,6 +1,6 @@
 FROM avoronkin/nvm
 
-ENV NODE_VERSION "v0.10.30"
+ENV NODE_VERSION "v0.10.36"
 
 # Install node.js
 RUN /bin/bash -c ". /.nvm/nvm.sh && \
